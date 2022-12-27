@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael Soriano
+Hi 👋 My name is Michael Soriano
 =======================================================================================================================================
 
-Developer. UX Engineer
+Web Developer. UX Engineer
 ----------------------
 
 *   🌍  I'm based in California US
@@ -35,6 +35,3 @@ Developer. UX Engineer
 <a href="https://www.linkedin.com/in/michaelsoriano/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/1871131/michael-soriano" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/dev_msoriano" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-<b>My GitHub Stats</b><a href="http://www.github.com/michaelsoriano"><img src="https://github-readme-stats.vercel.app/api?username=michaelsoriano&show_icons=true&hide=contribs&count_private=true&title_color=000000&text_color=64748b&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="michaelsoriano's GitHub stats" /></a><a href="http://www.github.com/michaelsoriano"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelsoriano&stroke=64748b&background=ffffff&ring=000000&fire=000000&currStreakNum=64748b&currStreakLabel=000000&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a><a href="http://www.github.com/michaelsoriano"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=michaelsoriano&bg_color=ffffff&color=64748b&line=10b981&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/michaelsoriano" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsoriano&langs_count=10&title_color=000000&text_color=64748b&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
