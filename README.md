@@ -1,7 +1,7 @@
 Hi 👋 My name is Michael Soriano
 =======================================================================================================================================
 
-Web Developer. UX Engineer
+Software Engineer
 ----------------------
 
 *   🌍  I'm based in California US
