@@ -1,12 +1,9 @@
 Hi 👋 My name is Michael Soriano
 =======================================================================================================================================
 
-Software Engineer
-----------------------
-
-*   🌍  I'm based in California US
+*   🌍  I'm based in California, US
 *   🖥️  See my portfolio at [michaelsoriano.com](http://michaelsoriano.com)
-*   🧠  I'm learning TypeScript
+*   🧠  I'm learning TypeScript, Prisma
 *   🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills 
