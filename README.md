@@ -3,7 +3,7 @@ Hi 👋 My name is Michael
 
 *   🌍  I'm based in California, US
 *   🖥️  See my portfolio at [michaelsoriano.com](http://michaelsoriano.com)
-*   🧠  I'm learning TypeScript, React, Prisma, NextJS, Laravel
+*   🧠  I'm learning Tailwind, Inertia, Laravel
 *   🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills 
